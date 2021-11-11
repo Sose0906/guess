@@ -1,0 +1,11 @@
+.questionBox {
+    border: 1px solid #b5b5eb;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 30px;
+}
+button{
+    margin-top: 20px;
+}
